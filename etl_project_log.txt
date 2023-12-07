@@ -1,0 +1,12 @@
+2023-12-07-15:26:47 : ETL process start
+2023-12-07-15:26:47 : Extract process start
+2023-12-07-15:26:54 : Extract process ends
+2023-12-07-15:26:54 : Transform process start
+2023-12-07-15:26:54 : Transform Process ends
+2023-12-07-15:26:54 : Load to csv start
+2023-12-07-15:26:54 : Load to csv ends
+2023-12-07-15:26:54 : Load to data base start
+2023-12-07-15:26:54 : Load to data base ends
+2023-12-07-15:26:54 : Run query start
+2023-12-07-15:26:54 : Run query ends
+2023-12-07-15:26:54 : ETL Process complete

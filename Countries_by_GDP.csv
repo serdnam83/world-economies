@@ -1,0 +1,192 @@
+,Country,GDP_USD_billions,Year
+0,United States,26854.6,2023
+1,China,19373.59,2023
+2,Japan,4409.74,2023
+3,Germany,4308.85,2023
+4,India,3736.88,2023
+5,United Kingdom,3158.94,2023
+6,France,2923.49,2023
+7,Italy,2169.74,2023
+8,Canada,2089.67,2023
+9,Brazil,2081.24,2023
+10,Russia,2062.65,2023
+11,South Korea,1721.91,2023
+12,Australia,1707.55,2023
+13,Mexico,1663.16,2023
+14,Spain,1492.43,2023
+15,Indonesia,1391.78,2023
+16,Netherlands,1080.88,2023
+17,Saudi Arabia,1061.9,2023
+18,Turkey,1029.3,2023
+19,Switzerland,869.6,2023
+20,Taiwan,790.73,2023
+21,Poland,748.89,2023
+22,Argentina,641.1,2023
+23,Belgium,624.25,2023
+24,Sweden,599.05,2023
+25,Ireland,594.1,2023
+26,Thailand,574.23,2023
+27,Norway,554.11,2023
+28,Israel,539.22,2023
+29,Singapore,515.55,2023
+30,Austria,515.2,2023
+31,Nigeria,506.6,2023
+32,United Arab Emirates,498.98,2023
+33,Vietnam,449.09,2023
+34,Malaysia,447.03,2023
+35,Philippines,440.9,2023
+36,Bangladesh,420.52,2023
+37,Denmark,405.63,2023
+38,South Africa,399.01,2023
+39,Hong Kong,382.85,2023
+40,Egypt,378.11,2023
+41,Iran,367.97,2023
+42,Chile,358.56,2023
+43,Romania,348.9,2023
+44,Colombia,334.69,2023
+45,Czech Republic,330.48,2023
+46,Finland,301.67,2023
+47,Peru,268.24,2023
+48,Iraq,267.89,2023
+49,Portugal,267.72,2023
+50,New Zealand,251.97,2023
+51,Kazakhstan,245.69,2023
+52,Greece,239.3,2023
+53,Qatar,219.57,2023
+54,Algeria,206.01,2023
+55,Hungary,188.5,2023
+56,Kuwait,164.71,2023
+57,Ethiopia,156.08,2023
+58,Ukraine,148.71,2023
+59,Morocco,138.78,2023
+60,Slovakia,127.53,2023
+61,Ecuador,121.29,2023
+62,Dominican Republic,121.29,2023
+63,Puerto Rico,120.84,2023
+64,Kenya,118.13,2023
+65,Angola,117.88,2023
+66,Oman,104.9,2023
+67,Guatemala,102.31,2023
+68,Bulgaria,100.64,2023
+69,Venezuela,96.63,2023
+70,Uzbekistan,92.33,2023
+71,Luxembourg,86.97,2023
+72,Tanzania,85.42,2023
+73,Turkmenistan,82.65,2023
+74,Croatia,78.88,2023
+75,Lithuania,78.35,2023
+76,Costa Rica,77.78,2023
+77,Uruguay,77.31,2023
+78,Panama,77.26,2023
+79,Ivory Coast,77.05,2023
+80,Serbia,73.96,2023
+81,Belarus,73.54,2023
+82,Azerbaijan,70.03,2023
+83,DR Congo,69.47,2023
+84,Slovenia,68.11,2023
+85,Ghana,66.62,2023
+86,Myanmar,63.99,2023
+87,Jordan,52.06,2023
+88,Tunisia,49.81,2023
+89,Uganda,49.79,2023
+90,Cameroon,48.62,2023
+91,Latvia,47.4,2023
+92,Sudan,46.7,2023
+93,Libya,46.3,2023
+94,Bolivia,46.1,2023
+95,Bahrain,44.87,2023
+96,Paraguay,42.82,2023
+97,Nepal,42.1,2023
+98,Estonia,41.55,2023
+99,Macau,35.84,2023
+100,El Salvador,33.75,2023
+101,Honduras,32.86,2023
+102,Papua New Guinea,31.36,2023
+103,Senegal,31.22,2023
+104,Cyprus,30.86,2023
+105,Cambodia,30.63,2023
+106,Zimbabwe,29.93,2023
+107,Zambia,29.27,2023
+108,Iceland,28.62,2023
+109,Bosnia and Herzegovina,28.49,2023
+110,Trinidad and Tobago,28.22,2023
+111,Georgia,27.95,2023
+112,Haiti,26.58,2023
+113,Armenia,23.73,2023
+114,Guinea,23.33,2023
+115,Burkina Faso,21.08,2023
+116,Mali,20.78,2023
+117,Gabon,20.33,2023
+118,Albania,20.18,2023
+119,Mozambique,19.91,2023
+120,Palestine,19.21,2023
+121,Botswana,19.57,2023
+122,Yemen,19.53,2023
+123,Malta,19.41,2023
+124,Benin,19.24,2023
+125,Nicaragua,17.29,2023
+126,Jamaica,17.25,2023
+127,Mongolia,16.91,2023
+128,Niger,16.62,2023
+129,Guyana,16.31,2023
+130,Brunei,15.99,2023
+131,Madagascar,15.97,2023
+132,Moldova,15.83,2023
+133,North Macedonia,15.28,2023
+134,Equatorial Guinea,15.1,2023
+135,Mauritius,14.57,2023
+136,Bahamas,14.11,2023
+137,Laos,14.09,2023
+138,Namibia,13.49,2023
+139,Rwanda,13.15,2023
+140,Congo,13.03,2023
+141,Tajikistan,12.8,2023
+142,Kyrgyzstan,12.31,2023
+143,Chad,11.96,2023
+144,Malawi,11.28,2023
+145,Mauritania,10.97,2023
+146,Kosovo,9.99,2023
+147,Togo,9.0,2023
+148,Somalia,8.74,2023
+149,Montenegro,7.03,2023
+150,South Sudan,7.01,2023
+151,Maldives,7.0,2023
+152,Barbados,6.12,2023
+153,Fiji,5.38,2023
+154,Eswatini,4.82,2023
+155,Liberia,4.38,2023
+156,Djibouti,3.92,2023
+157,Andorra,3.67,2023
+158,Aruba,3.63,2023
+159,Sierra Leone,3.52,2023
+160,Suriname,3.47,2023
+161,Burundi,3.23,2023
+162,Belize,3.16,2023
+163,Central African Republic,2.74,2023
+164,Bhutan,2.68,2023
+165,Eritrea,2.67,2023
+166,Lesotho,2.58,2023
+167,Cape Verde,2.47,2023
+168,Gambia,2.28,2023
+169,Saint Lucia,2.26,2023
+170,East Timor,1.99,2023
+171,Seychelles,1.95,2023
+172,Guinea-Bissau,1.89,2023
+173,Antigua and Barbuda,1.86,2023
+174,San Marino,1.81,2023
+175,Solomon Islands,1.7,2023
+176,Comoros,1.35,2023
+177,Grenada,1.27,2023
+178,Vanuatu,1.06,2023
+179,Saint Kitts and Nevis,1.05,2023
+180,Saint Vincent and the Grenadines,1.04,2023
+181,Samoa,0.9,2023
+182,Dominica,0.68,2023
+183,São Tomé and Príncipe,0.62,2023
+184,Tonga,0.54,2023
+185,Micronesia,0.46,2023
+186,Marshall Islands,0.29,2023
+187,Palau,0.26,2023
+188,Kiribati,0.25,2023
+189,Nauru,0.15,2023
+190,Tuvalu,0.07,2023
